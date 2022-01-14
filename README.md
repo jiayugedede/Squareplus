@@ -6,3 +6,6 @@ We will make great efforts to ensure and improve the quality of this repository 
 Pattern recognition:<Br/>
 1. Image contrast<Br/>
    SHMS.py : Chang Y C , Chang C M . A simple histogram modification scheme for contrast enhancement[J]. IEEE Transactions on Consumer Electronics, 2010, 56(2):737-742.
+2. Activation function:<Br/>
+   Jonathan T. Barron:Squareplus: A Softplus-Like Algebraic Rectifier. CoRR abs/2112.11687 (2021).// Implementing in tensorflow-2.5.0 .
+ 
