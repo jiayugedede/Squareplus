@@ -4,9 +4,9 @@ from tensorflow.keras.layers import Layer, Conv2D, MaxPooling2D, Flatten, Dense,
 # Not UTF-8, GBK is ok.
 #SMU: SMOOTH ACTIVATION FUNCTION FOR DEEP NETWORKS USING SMOOTHING MAXIMUM TECHNIQUE
 # This is SUM, not SUM-1 activation method.
-# classification£º ¦Á=0.25, ¦Ì=1.0.
-# object detection: ¦Á=0.01, ¦Ì=2.5.
-# ¦Á and ¦Ì can be either hyperparameters or trainable parameters.
+# classification: alpha=0.25, mu=1.0.
+# object detection: alpha=0.01, mu=2.5.
+# alpha and mu can be either hyperparameters or trainable parameters.
 @tf.keras.utils.register_keras_serializable()
 class SMU(tf.keras.layers.Layer):
     def __init__(self, alpha=0.25, name="SUM", **kwargs):
