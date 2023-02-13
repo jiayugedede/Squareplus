@@ -10,3 +10,4 @@ Pattern recognition:<Br/>
    (1) Jonathan T. Barron:Squareplus: A Softplus-Like Algebraic Rectifier. CoRR abs/2112.11687 (2021).// Implementing in tensorflow-2.5.0 .<Br/>
    (2) He K, Zhang X, Ren S, et al. Delving deep into rectifiers: Surpassing human-level performance on imagenet classification[C]//Proceedings of the IEEE international conference on computer vision. 2015: 1026-1034.<Br/>
    (3) Zhao H, Liu F, Li L, et al. A novel softplus linear unit for deep convolutional neural networks[J]. Applied Intelligence, 2018, 48: 1707-1720.<Br/>
+   (4) Biswas K, Kumar S, Banerjee S, et al. SMU: smooth activation function for deep networks using smoothing maximum technique[J]. arXiv preprint arXiv:2111.04682, 2021.<Br/>
