@@ -10,12 +10,12 @@ class RSigELUD(tf.keras.layers.Layer):
 
     def build(self, input_shape):
         b, w, h, c = input_shape
-        self.initializer = tf.constant_initializer(value=0.5)
+        self.initializer = tf.constant_initializer(value=0.05)
         self.alpha = tf.Variable(initial_value=self.initializer(shape=[c], dtype=tf.float32),
                                        dtype=tf.float32,
                                        trainable=True, name="alpha")
 
-        self.beta_initializer = tf.constant_initializer(value=0.5)
+        self.beta_initializer = tf.constant_initializer(value=0.2)
         self.beta = tf.Variable(initial_value=self.beta_initializer(shape=[c], dtype=tf.float32),
                                 dtype=tf.float32,
                                 trainable=True, name="beta")
