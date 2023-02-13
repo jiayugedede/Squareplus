@@ -13,3 +13,4 @@ Pattern recognition:<Br/>
    (4) Biswas K, Kumar S, Banerjee S, et al. SMU: smooth activation function for deep networks using smoothing maximum technique[J]. arXiv preprint arXiv:2111.04682, 2021.<Br/>
    (5) Qiumei Z, Dan T, Fenghua W. Improved convolutional neural network based on fast exponentially linear unit activation function[J]. Ieee Access, 2019, 7: 151359-151367.<Br/>
    (6) Kiliçarslan S, Celik M. RSigELU: A nonlinear activation function for deep neural networks[J]. Expert Systems with Applications, 2021, 174: 114805.<Br/>
+   (7) Klambauer G, Unterthiner T, Mayr A, et al. Self-normalizing neural networks[J]. Advances in neural information processing systems, 2017, 30.<Br/>
