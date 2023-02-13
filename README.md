@@ -12,4 +12,4 @@ Pattern recognition:<Br/>
    (3) Zhao H, Liu F, Li L, et al. A novel softplus linear unit for deep convolutional neural networks[J]. Applied Intelligence, 2018, 48: 1707-1720.<Br/>
    (4) Biswas K, Kumar S, Banerjee S, et al. SMU: smooth activation function for deep networks using smoothing maximum technique[J]. arXiv preprint arXiv:2111.04682, 2021.<Br/>
    (5) Qiumei Z, Dan T, Fenghua W. Improved convolutional neural network based on fast exponentially linear unit activation function[J]. Ieee Access, 2019, 7: 151359-151367.<Br/>
-   (6) RSigELU: A nonlinear activation function for deep neural networks.<Br/>
+   (6) Kiliçarslan S, Celik M. RSigELU: A nonlinear activation function for deep neural networks[J]. Expert Systems with Applications, 2021, 174: 114805.<Br/>
