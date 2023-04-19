@@ -17,4 +17,4 @@ Pattern recognition:<Br/>
    (6) Kiliçarslan S, Celik M. RSigELU: A nonlinear activation function for deep neural networks[J]. Expert Systems with Applications, 2021, 174: 114805.<Br/>
    (7) Klambauer G, Unterthiner T, Mayr A, et al. Self-normalizing neural networks[J]. Advances in neural information processing systems, 2017, 30.<Br/>
    (8) Pratama K, Kang D K. Trainable activation function with differentiable negative side and adaptable rectified point[J]. Applied Intelligence, 2021, 51(3): 1784-1801.<Br/>
-   (9) Gulcehre C, Moczulski M, Denil M, et al. Noisy activation functions[C]//International conference on machine learning. PMLR, 2016: 3059-3068.<Br/>
+   (9) HardSigmoid: Gulcehre C, Moczulski M, Denil M, et al. Noisy activation functions[C]//International conference on machine learning. PMLR, 2016: 3059-3068.<Br/>
